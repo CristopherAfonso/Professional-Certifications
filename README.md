@@ -9,6 +9,8 @@ The certificates are organized by category and updated as new credentials are ea
 ### Offensive Security
 
 - Certified Ethical Hacker (CEH v13)
+- TryHackMe - Jr Penetration Tester
+- TryHackMe - Web Fundamentals
 
 ### Languages
 
